@@ -19,4 +19,4 @@ It is for Cohesion, which moves every boid towards average position of surroundi
 It is for Seperation, which moves every boid away from surrounding boid to avoid Crowding.
 
 ## Credit
-This has been made by following the tutorials from [Daiel Shiffman](https://www.youtube.com/watch?v=mhjuuHl6qHM).
+This has been inspired from the works of [Daiel Shiffman].
